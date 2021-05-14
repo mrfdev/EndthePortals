@@ -1,0 +1,7 @@
+name: EndthePortal
+version: @version@
+main: dev.the456gamer.EndthePortal.EndthePortal
+api-version: 1.16
+authors: [The456gamer]
+description: Stops endportals from being entered.
+website: https://github.com/mrfdev/EndthePortal
