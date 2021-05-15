@@ -38,7 +38,7 @@ public final class EndthePortal extends JavaPlugin implements Listener {
     }
 
     @EventHandler
-    public void onEntityPortal(EntityPortalEvent event){
+    public void onEntityPortal(EntityPortalEvent event) {
         //logger.info("got entity portal event " + event.getEntity() + ";" + event.getFrom().getWorld() + ";" + event.getFrom().getBlock());
         if (event.getFrom().getBlock().getType().equals(Material.END_PORTAL)
                 && event.getFrom().getWorld().getEnvironment()
