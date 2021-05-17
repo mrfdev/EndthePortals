@@ -3,5 +3,5 @@ version: @version@
 main: dev.the456gamer.EndthePortal.EndthePortal
 api-version: 1.16
 authors: [The456gamer]
-description: Stops endportals from being entered.
+description: Stops End dimension exit portal from being entered.
 website: https://github.com/mrfdev/EndthePortal
